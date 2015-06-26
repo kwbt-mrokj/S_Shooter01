@@ -1,0 +1,16 @@
+自分のGitHubForWindowsからkwbt-mrokj->S_ShooterをCloneする
+
+保存先のところにS_Shooterの内容がごろんとコピーされる
+
+自分のとこに保存されたS_Shooterに送りつけたいファイルを投げる
+(今回はSpaceShooterTESTを投げました)
+
+GitHubForWindowsのS_Shooterを除くとコミット準備がされている
+
+コミットする
+
+Syncする
+
+kwbt-mrokj->S_Shooterに反映(Publish)されている。
+
+Clone作らせないとダメなんじゃあないすかね。
